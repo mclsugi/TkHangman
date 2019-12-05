@@ -1,9 +1,9 @@
 # TkHangman
 ## Hangman-game with standard Python library for it's GUI (tkinter).
 
-This repo is just my attempt to **practice / learn** about Python, tkinter, and GitHub.
+![](https://raw.githubusercontent.com/mclsugi/TkHangman/master/SS01.png)
 
-![Image of TkHangman](https://)
+This repo is just my attempt to **practice / learn** about Python, tkinter, and GitHub.
 
 Feature:
 1. Editable separate dictionary for hidden words ('dicti.txt').
