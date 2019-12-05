@@ -129,15 +129,15 @@ class App:
 
 
 # init
-root = Tk()
-root.geometry('720x480')
-root.configure(bg='gray12')
-root.resizable(width=False, height=False)
-root.title("MCLSugi HANGMAN   (1.0.0)")
+if __name__ == '__main__':
+    root = Tk()
+    root.geometry('720x480')
+    root.configure(bg='gray12')
+    root.resizable(width=False, height=False)
+    root.title("MCLSugi HANGMAN   (1.0.0)")
 
-app = App(root)
-
-root.mainloop()
-root.destroy()
+    app = App(root)
+    root.mainloop()
+    root.destroy()
 
 # fin 
