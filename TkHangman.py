@@ -1,10 +1,13 @@
 ###############################################################################
 # MCL's HANGMAN (GUI version)
 # Version: 1.0.0
-# Author: Marchel Sugi (MCLSugi)
+# Author: mclsugi
 # Init: Dec 01, 2019
-# Last Update: Dec 03, 2019
+# Last Update: Jan 10, 2023
 ###############################################################################
+
+
+# I totally forgot python, seriously!
 
 from tkinter import *
 from random import choice
